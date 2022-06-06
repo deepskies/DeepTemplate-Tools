@@ -1,6 +1,6 @@
 ---
 name: Feature request ☝️
-about: Do you have a suggestion for making Zenodo better? Tell us more about it
+about: Do you have a suggestion for making us better? Tell us more about it
 title: ''
 labels:
   - Enhancement
