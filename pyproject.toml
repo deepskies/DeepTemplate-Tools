@@ -1,8 +1,12 @@
 [tool.poetry]
 name = "example-environment"
 version = "0.1.0"
-description = ""
-authors = ["Name <email_address>"]
+license = "Apache-2.0"
+description = "A short description of your library"
+authors = ["Name <email_address>",]
+homepage = "url/to/the/webpage"
+repository = "url/to/the/github/repo"
+documentation = "url/to/the/documentation"
 
 [tool.poetry.dependencies]
 python = "^3.9"
